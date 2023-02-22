@@ -23,6 +23,6 @@ Vamos embarcar nesta grande jornada rumo ao conhecimento e bons estudos!!!
 
 - [Parte 2 - Criptografia](https://github.com/ThiagoSousa81/Library/blob/main/Minimanual-Criptografia/Part2.md)
 
-- Parte 3 - Assinatura Digital(https://github.com/ThiagoSousa81/Library/blob/main/Minimanual-Criptografia/Part3.md)
+- [Parte 3 - Assinatura Digital](https://github.com/ThiagoSousa81/Library/blob/main/Minimanual-Criptografia/Part3.md)
 
-- Parte 4 - Segurança da Informação(https://github.com/ThiagoSousa81/Library/blob/main/Minimanual-Criptografia/Part4.md)
+- [Parte 4 - Segurança da Informação](https://github.com/ThiagoSousa81/Library/blob/main/Minimanual-Criptografia/Part4.md)
