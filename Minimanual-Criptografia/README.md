@@ -19,10 +19,10 @@ Caso tenha interesse em colaborar com alguma parte deste projeto, entre em conta
 
 ## Sumário
 
-- Capítulo 1 - Codificação
+- Parte 1 - Codificação
 
-- Capítulo 2 - Criptografia
+- Parte 2 - Criptografia
 
-- Capítulo 3 - Assinatura Digital
+- Parte 3 - Assinatura Digital
 
-- Capítulo 4 - Segurança da Informação
+- Parte 4 - Segurança da Informação
