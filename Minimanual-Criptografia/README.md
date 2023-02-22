@@ -15,14 +15,14 @@ achar melhor.
 
 Vamos embarcar nesta grande jornada rumo ao conhecimento e bons estudos!!!
 
-Caso tenha interesse em colaborar com alguma parte deste projeto, entre em contato com o autor pelo e-mail [thiagosousa81@gmail.com](mailto:thiagosousa81@gmail.com).
+### Caso tenha interesse em colaborar com alguma parte deste projeto, entre em contato com o autor pelo e-mail [thiagosousa81@gmail.com](mailto:thiagosousa81@gmail.com).
 
 ## Sumário
 
-- Parte 1 - Codificação
+- [Parte 1 - Codificação](https://github.com/ThiagoSousa81/Library/blob/main/Minimanual-Criptografia/Part1.md#parte-1---codifica%C3%A7%C3%A3o)
 
-- Parte 2 - Criptografia
+- [Parte 2 - Criptografia](https://github.com/ThiagoSousa81/Library/blob/main/Minimanual-Criptografia/Part2.md)
 
-- Parte 3 - Assinatura Digital
+- Parte 3 - Assinatura Digital(https://github.com/ThiagoSousa81/Library/blob/main/Minimanual-Criptografia/Part3.md)
 
-- Parte 4 - Segurança da Informação
+- Parte 4 - Segurança da Informação(https://github.com/ThiagoSousa81/Library/blob/main/Minimanual-Criptografia/Part4.md)
