@@ -10,5 +10,8 @@ Define-se como algoritmo de encriptação o método utilizado para transformar u
 ### Simétricos
 
 Os algoritmo de criptografia simétrica utilizam a mesma chave para encriptar e desencriptar os dados. 
+Ex.: DES, RC4, AES...
 
-'''echo'''
+### Assimétricos
+
+Os algoritmos de criptografia 
